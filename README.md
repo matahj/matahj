@@ -1,4 +1,11 @@
-### Hi there, I'm Jorge MataH 👋
+<p>
+    <h3 align="center">¡Hi 👋!</h3>
+</p>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
+
 
 <!--
 **matahj/matahj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
