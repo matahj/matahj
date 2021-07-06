@@ -1,11 +1,8 @@
-<p>
-    <h3 align="center">¡Hi 👋!</h3>
-</p>
+### ¡Hi 👋!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+I'm interested in High Performance Computing Development and Web App Development. 
 
+You can contact me by e-mail (matahj at gmail dot com) or Twitter ([@matahj](https://twitter.com/matahj)).
 
 <!--
 **matahj/matahj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
