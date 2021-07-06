@@ -1,4 +1,4 @@
-### ¡Hi 👋!
+### ¡Hi! 👋
 
 I'm interested in High Performance Computing and Web App Development.
 
