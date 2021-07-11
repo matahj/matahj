@@ -1,6 +1,6 @@
 ### ¡Hi! 👋
 
-I'm interested in High Performance Computing and Web App Development.
+I'm interested in High Performance Computing and Web Apps Development.
 
 You can contact me by e-mail (matahj at gmail dot com) or Twitter (<a href="https://twitter.com/matahj/" target="_blank">@matahj</a>).
 
