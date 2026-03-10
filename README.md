@@ -2,7 +2,7 @@
 
 I'm interested in High Performance Computing, Web Apps Development and Data Science.
 
-You can contact me by e-mail (matahj at gmail dot com) or Twitter (<a href="https://twitter.com/matahj/" target="_blank">@matahj</a>).
+You can contact me by matahj at gmail dot com or <a href="https://twitter.com/matahj/" target="_blank">@matahj</a>.
 
 <!--
 **matahj/matahj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
