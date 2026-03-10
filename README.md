@@ -1,6 +1,6 @@
 ### ¡Hi! 👋
 
-I’m interested in HPC, Web, and Data (SQL/NoSQL, Sc, Viz).
+I’m interested in HPC, Web Apps, and Data (SQL/NoSQL, Sc, Viz).
 
 You can contact me by matahj at gmail dot com or <a href="https://twitter.com/matahj/" target="_blank">@matahj</a>.
 
