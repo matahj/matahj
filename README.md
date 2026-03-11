@@ -2,7 +2,8 @@
 
 I’m interested in HPC, Web Apps, and Data (SQL/NoSQL, Sc, Viz).
 
-You can contact me by matahj at gmail dot com or <a href="https://twitter.com/matahj/" target="_blank">@matahj</a>.
+matahj at gmail dot com
+X: <a href="https://twitter.com/matahj/" target="_blank">@matahj</a>.
 
 <!--
 **matahj/matahj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
